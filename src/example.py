@@ -6,4 +6,3 @@ class Example:
         self.x = 6
     def wrong_func(self):
         print("Linter should error!")
-
